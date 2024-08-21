@@ -114,7 +114,7 @@ img {
         width: auto; 
     }
 
-    td:nth-child(6) {
+    td, th:nth-child(6) {
         display: none;
     }
 
