@@ -18,7 +18,16 @@ body {
     text-align: center;
 }
 
-/* Re-enable text selection for links */
+.header {
+    background-color: #2D046E;
+    padding: 20px;
+    border-bottom: 2px solid #FFA500;
+    -webkit-user-select: text; /* Re-enable selection in Safari/Chrome */
+    -moz-user-select: text; /* Re-enable selection in Firefox */
+    -ms-user-select: text; /* Re-enable selection in IE/Edge */
+    user-select: text; /* Re-enable selection in modern browsers */
+}
+
 a {
     color: #FFA500;
     text-decoration: none;
@@ -28,13 +37,7 @@ a {
     user-select: text; /* Enable selection in modern browsers */
 }
 
-/* Existing styles... */
-
-.header {
-    background-color: #2D046E;
-    padding: 20px;
-    border-bottom: 2px solid #FFA500;
-}
+/* Table and other styles */
 
 table {
     width: 100%;
