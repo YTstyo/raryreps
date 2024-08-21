@@ -37,6 +37,7 @@ th {
     padding: 10px;
     text-align: center;
     vertical-align: middle;
+    font-size: 18px; /* Slightly reduce font size for table headers */
 }
 
 td {
@@ -44,6 +45,8 @@ td {
     padding: 10px;
     text-align: center;
     vertical-align: middle;
+    font-size: 16px; /* Slightly reduce font size for table cells */
+    word-wrap: break-word; /* Allow text to wrap within the cell */
 }
 
 thead {
@@ -118,14 +121,21 @@ img {
     td {
         display: table-cell;
         width: auto; 
+        font-size: 14px; /* Further reduce font size for smaller screens */
     }
 
-    td:nth-child(6) {
-        display: none;
+    th {
+        font-size: 14px; /* Further reduce header font size for smaller screens */
     }
-    th:nth-child(6) {
-        display: none;
+
+    td:nth-child(1), td:nth-child(2) {
+        width: 50%; /* Adjust width of first two columns for smaller screens */
     }
+
+    td:nth-child(6), th:nth-child(6) {
+        display: none; /* Hide 6th column on small screens */
+    }
+
     img {
         width: 70px;
         height: 70px;
