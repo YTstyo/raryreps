@@ -1,7 +1,7 @@
 [
     {
         "name": "Air Pro GEN 2",
-        "link": "https://cnfans.com/product/?shop_type=weidian&id=7221521313",
+        "link": "https://cnfans.com/product/?shop_type=weidian&id=7221521313&ref=212016",
         "img": "https://si.geilicdn.com/wdseller1799811745-4d620000018cd5ff895f0a22d4f5_1180_1572.jpg",
         "price": "11.25 USD",
         "brand": "Apple",
@@ -169,7 +169,7 @@
     },
     {
         "name": "Stussy shorts",
-        "link": "https://cbu01.alicdn.com/img/ibank/O1CN01Crgkmy1Twm6FCT1Su_!!2210915742447-0-cib.jpg_600x600.jpg",
+        "link": "https://cnfans.com/product/?shop_type=ali_1688&id=&ref=212016",
         "img": "https://cbu01.alicdn.com/img/ibank/O1CN01CK9UsD1Twm6CrPtej_!!2210915742447-0-cib.jpg_600x600.jpg",
         "price": "9.4 USD",
         "brand": "Stussy",
@@ -390,5 +390,29 @@
         "price": "28 USD",
         "brand": "Adidas",
         "category": "Shoes"
+    },
+    {
+        "name": "Brazil Retro Jersey",
+        "link": "https://cnfans.com/product/?shop_type=taobao&id=602429836473&ref=212016",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhtRP3y8l9Bj7gWfC9ei_rlM2ZDcJixPJmwQ&s",
+        "price": "4 USD",
+        "brand": "...",
+        "category": "Clothing"
+    },
+    {
+        "name": "Badfriend Hoodie",
+        "link": "https://cnfans.com/product/?shop_type=weidian&id=7242568525&ref=212016",
+        "img": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQMVplZzg3NKWYp9dJYg8VPVgRaS69vSt3LTz5BOy0wd2MudpCejt21_T6EU3Q-EQtdc3KaNQICrC-4UG2Be9t9QJzzmS66t-4tL0WyxGlKNtMLBPDKD7P6xA",
+        "price": "20 USD",
+        "brand": "Badfriend ",
+        "category": "Clothing"
+    },
+    {
+        "name": "Denim Tears Tees",
+        "link": "https://cnfans.com/pl/product/?shop_type=weidian&id=7243617780&ref=212016",
+        "img": "https://media-photos.depop.com/b1/43716044/1926210251_8f0231a6849e49f4b50fdc0c49a5a6c5/P0.jpg",
+        "price": "14 USD",
+        "brand": "Denim Tears",
+        "category": "Clothing"
     }
 ]
