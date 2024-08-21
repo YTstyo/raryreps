@@ -5,7 +5,12 @@
     font-style: normal;
 }
 
+/* Prevent text selection */
 body {
+    -webkit-user-select: none; /* Disable selection in Safari/Chrome */
+    -moz-user-select: none; /* Disable selection in Firefox */
+    -ms-user-select: none; /* Disable selection in IE/Edge */
+    user-select: none; /* Disable selection in modern browsers */
     font-family: 'VisbyRound', sans-serif;
     font-size: 20px;
     background-color: #2D046E;
@@ -13,15 +18,22 @@ body {
     text-align: center;
 }
 
+/* Re-enable text selection for links */
+a {
+    color: #FFA500;
+    text-decoration: none;
+    -webkit-user-select: text; /* Enable selection in Safari/Chrome */
+    -moz-user-select: text; /* Enable selection in Firefox */
+    -ms-user-select: text; /* Enable selection in IE/Edge */
+    user-select: text; /* Enable selection in modern browsers */
+}
+
+/* Existing styles... */
+
 .header {
     background-color: #2D046E;
     padding: 20px;
     border-bottom: 2px solid #FFA500;
-}
-
-a {
-    color: #FFA500;
-    text-decoration: none;
 }
 
 table {
@@ -37,7 +49,6 @@ th {
     padding: 10px;
     text-align: center;
     vertical-align: middle;
-    font-size: 18px; /* Slightly reduce font size for table headers */
 }
 
 td {
@@ -45,8 +56,6 @@ td {
     padding: 10px;
     text-align: center;
     vertical-align: middle;
-    font-size: 16px; /* Slightly reduce font size for table cells */
-    word-wrap: break-word; /* Allow text to wrap within the cell */
 }
 
 thead {
@@ -121,19 +130,19 @@ img {
     td {
         display: table-cell;
         width: auto; 
-        font-size: 14px; /* Further reduce font size for smaller screens */
-    }
-
-    th {
-        font-size: 14px; /* Further reduce header font size for smaller screens */
+        font-size: 14px;
+        -webkit-user-select: none; /* Disable selection for cells */
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
     }
 
     td:nth-child(1), td:nth-child(2) {
-        width: 50%; /* Adjust width of first two columns for smaller screens */
+        width: 50%; 
     }
 
     td:nth-child(6), th:nth-child(6) {
-        display: none; /* Hide 6th column on small screens */
+        display: none;
     }
 
     img {
