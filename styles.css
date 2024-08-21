@@ -7,10 +7,10 @@
 
 /* Prevent text selection */
 body {
-    -webkit-user-select: none; /* Disable selection in Safari/Chrome */
-    -moz-user-select: none; /* Disable selection in Firefox */
-    -ms-user-select: none; /* Disable selection in IE/Edge */
-    user-select: none; /* Disable selection in modern browsers */
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
     font-family: 'VisbyRound', sans-serif;
     font-size: 20px;
     background-color: #2D046E;
@@ -22,22 +22,29 @@ body {
     background-color: #2D046E;
     padding: 20px;
     border-bottom: 2px solid #FFA500;
-    -webkit-user-select: text; /* Re-enable selection in Safari/Chrome */
-    -moz-user-select: text; /* Re-enable selection in Firefox */
-    -ms-user-select: text; /* Re-enable selection in IE/Edge */
-    user-select: text; /* Re-enable selection in modern browsers */
+    -webkit-user-select: text;
+    -moz-user-select: text;
+    -ms-user-select: text;
+    user-select: text;
+}
+
+.header a {
+    color: #FFA500;
+    text-decoration: none;
+    -webkit-user-select: text;
+    -moz-user-select: text;
+    -ms-user-select: text;
+    user-select: text;
 }
 
 a {
-    color: #FFA500;
+    color: #2D046E; /* Set link color for links in the columns */
     text-decoration: none;
-    -webkit-user-select: text; /* Enable selection in Safari/Chrome */
-    -moz-user-select: text; /* Enable selection in Firefox */
-    -ms-user-select: text; /* Enable selection in IE/Edge */
-    user-select: text; /* Enable selection in modern browsers */
+    -webkit-user-select: text;
+    -moz-user-select: text;
+    -ms-user-select: text;
+    user-select: text;
 }
-
-/* Table and other styles */
 
 table {
     width: 100%;
@@ -134,7 +141,7 @@ img {
         display: table-cell;
         width: auto; 
         font-size: 14px;
-        -webkit-user-select: none; /* Disable selection for cells */
+        -webkit-user-select: none;
         -moz-user-select: none;
         -ms-user-select: none;
         user-select: none;
