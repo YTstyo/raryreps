@@ -22,5 +22,37 @@
         "price": "15 USD",
         "brand": "ADWYSD",
         "category": "Clothing"
+    },
+    {
+        "name": "Ts J1 Barb Series",
+        "link": "https://cnfans.com/product/?id=5296282013&shop_type=weidian&ref=212016",
+        "img": "https://si.geilicdn.com/wdseller1676751325-06ed0000018fb60c9ce40a23038e_1179_1180.jpg?w=600&h=600",
+        "price": "37.35 USD",
+        "brand": "Jordan",
+        "category": "Shoes"
+    },
+    {
+        "name": "Yeezy 350 ",
+        "link": "https://cnfans.com/product/?id=5277277216&shop_type=weidian&ref=212016",
+        "img": "https://preview.thenewsmarket.com/Previews/ADID/StillAssets/Source_Max_2560/558270.jpg",
+        "price": "24 USD",
+        "brand": "Yeezy",
+        "category": "Shoes"
+    },
+    {
+        "name": "BLCG Trooper rubber boots",
+        "link": "https://cnfans.com/product/?shop_type=weidian&id=5366399794&ref=212016",
+        "img": "https://si.geilicdn.com/wdseller1676751325-6c0700000182b75fd67e0a231273_2997_2982.jpg?w=600&h=600",
+        "price": "45 USD",
+        "brand": "Balenciaga",
+        "category": "Shoes"
+    },
+    {
+        "name": "REAL GX J4",
+        "link": "https://cnfans.com/product/?id=5416187188&shop_type=weidian&ref=212016",
+        "img": "https://si.geilicdn.com/wdseller1676751325-485b0000018fb5ced3dd0a231316_1179_1180.jpg?w=600&h=600",
+        "price": "68.99 USD",
+        "brand": "Jordan",
+        "category": "Shoes"
     }
 ]
