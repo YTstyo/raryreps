@@ -1,6 +1,12 @@
+@font-face {
+    font-family: 'VisbyRound';
+    src: url('/fonts/VisbyRoundCF-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
 
 body {
-    font-family: 'Comic Sans MS', cursive, sans-serif;
+    font-family: 'VisbyRound', sans-serif;
     font-size: 20px;
     background-color: #2D046E;
     color: white;
