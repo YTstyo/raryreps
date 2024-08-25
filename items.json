@@ -414,5 +414,61 @@
         "price": "14 USD",
         "brand": "Denim Tears",
         "category": "Clothing"
+    },
+    {
+        "name": "Palm Angels Tee (100+ Colorways)",
+        "link": "https://cnfans.com/product/?shop_type=taobao&id=770939300665&ref=212016",
+        "img": "https://img.alicdn.com/bao/uploaded/i4/2217139011106/O1CN01ImpDF51K2azrRaWIl_!!2217139011106.jpg_600x600.jpg",
+        "price": "13.75 USD",
+        "brand": "Palm Angels",
+        "category": "Clothing"
+    },
+    {
+        "name": "Sp5der Hoodie (40+ Colors)",
+        "link": "https://cnfans.com/product/?shop_type=taobao&id=751933666507&ref=212016",
+        "img": "https://img.alicdn.com/bao/uploaded/i2/2216892321311/O1CN01wfBjhh1LYU9Bj0ti7_!!2216892321311.jpg_600x600.jpg",
+        "price": "21 USD",
+        "brand": "Sp5der",
+        "category": "Clothing"
+    },
+    {
+        "name": "ADWYSD Jeans",
+        "link": "https://cnfans.com/product/?shop_type=taobao&id=779853695214&ref=212016",
+        "img": "https://img.alicdn.com/bao/uploaded/i1/2217139011106/O1CN01t59pC81K2azbkWnZ8_!!2217139011106.jpg_600x600.jpg",
+        "price": "29 USD",
+        "brand": "ADWYSD",
+        "category": "Clothing"
+    },
+    {
+        "name": "Ralph Lauren Polo's",
+        "link": "https://cnfans.com/product/?shop_type=weidian&id=7249657039&ref=212016",
+        "img": "https://si.geilicdn.com/pcitem1875390284-12ed00000190b93237160a23041a_1500_1500.jpg?w=600&h=600",
+        "price": "18 USD",
+        "brand": "Ralph Lauren",
+        "category": "Clothing"
+    },
+    {
+        "name": "Nocta Fleece",
+        "link": "https://cnfans.com/product/?shop_type=weidian&id=7180964500&ref=212016",
+        "img": "https://si.geilicdn.com/wdseller1561995532-18a30000018d21aa49720a231179_1024_1026.jpg?w=600&h=600",
+        "price": "30 USD",
+        "brand": "Nocta",
+        "category": "Clothing"
+    },
+    {
+        "name": "AF1",
+        "link": "https://cnfans.com/product/?shop_type=weidian&id=7242794417&ref=212016",
+        "img": "https://si.geilicdn.com/pcitem1818758144-227f0000018f5865e0350a23057e_1200_1200.jpg?w=600&h=600",
+        "price": "24 USD",
+        "brand": "Nike",
+        "category": "Shoes"
+    },
+    {
+        "name": "Prada Sunglasses",
+        "link": "https://cnfans.com/product/?shop_type=taobao&id=746222885160&ref=212016",
+        "img": "https://img.alicdn.com/bao/uploaded/i4/65329823/O1CN01pqQNUg2MQzRloM1Zj_!!65329823.png_600x600.jpg",
+        "price": "14 USD",
+        "brand": "Prada",
+        "category": "Accessories"
     }
 ]
