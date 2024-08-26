@@ -10,16 +10,16 @@ fetch('items.json')
 
         items.forEach(item => {
             const row = document.createElement("tr");
-            
+
             row.innerHTML = `
                 <td>${item.name}</td>
-                <td><a href="${item.link}">Link</a></td>
+                <td><a href="${item.link}" target="_blank">Link</a></td>
                 <td><img src="${item.img}" alt="${item.name}" width="100"></td>
                 <td>${item.price}</td>
                 <td>${item.brand}</td>
                 <td>${item.category}</td>
             `;
-            
+
             tableBody.appendChild(row);
         });
     })
