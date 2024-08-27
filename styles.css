@@ -5,7 +5,6 @@
     font-style: normal;
 }
 
-/* Prevent text selection */
 body {
     -webkit-user-select: none;
     -moz-user-select: none;
@@ -38,7 +37,7 @@ body {
 }
 
 a {
-    color: #492286; /* Set link color for links in the columns */
+    color: #492286;
     text-decoration: none;
     -webkit-user-select: text;
     -moz-user-select: text;
