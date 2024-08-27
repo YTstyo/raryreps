@@ -470,5 +470,237 @@
         "price": "14 USD",
         "brand": "Prada",
         "category": "Accessories"
+    },
+    {
+        "name": "Boston Birkenstocks",
+        "link": "https://cnfans.com/product/?shop_type=ali_1688&id=710718575723&ref=212016",
+        "img": "https://cbu01.alicdn.com/img/ibank/O1CN01uxcEq71Bs2yMKF1KO_!!0-0-cib.jpg",
+        "price": "13 USD",
+        "brand": "Birkenstock",
+        "category": "Shoes"
+    },
+    {
+        "name": "1:1 Trapstar",
+        "link": "https://cnfans.com/product/?shop_type=weidian&id=7254124091&ref=212016",
+        "img": "https://si.geilicdn.com/open1839367417-252808396-6e4a0000018ff86767080a210559_800_800.jpg?w=600&h=600",
+        "price": "12 USD",
+        "brand": "Trapstar",
+        "category": "Clothing"
+    },
+    {
+        "name": "Rhude Tees (100 colorway)",
+        "link": "https://cnfans.com/product/?shop_type=taobao&id=781706763769&ref=212016",
+        "img": "https://img.alicdn.com/bao/uploaded/i1/2217139011106/O1CN01Rzqgof1K2azmoZ908_!!2217139011106.jpg_600x600.jpg",
+        "price": "12 USD",
+        "brand": "Rhude",
+        "category": "Clothing"
+    },
+    {
+        "name": "Good Quality Corteiz Hoodies",
+        "link": "https://cnfans.com/product/?shop_type=taobao&id=756625609142&ref=212016",
+        "img": "https://img.alicdn.com/bao/uploaded/i3/2216892321311/O1CN01s7sWKZ1LYU9OsH5g1_!!2216892321311.jpg_600x600.jpg",
+        "price": "22 USD",
+        "brand": "Corteiz",
+        "category": "Clothing"
+    },
+    {
+        "name": "Essentials hoodies",
+        "link": "https://cnfans.com/product/?shop_type=taobao&id=573254630703&ref=212016",
+        "img": "https://img.alicdn.com/bao/uploaded/i3/1090806015/O1CN01mLCzmN1uIv54Ylond_!!1090806015.jpg_600x600.jpg",
+        "price": "11 USD",
+        "brand": "Essentials",
+        "category": "Clothing"
+    },
+    {
+        "name": "Bape Miami ",
+        "link": "https://cnfans.com/product/?shop_type=weidian&id=7254097063&ref=212016",
+        "img": "https://si.geilicdn.com/open1664615749-252808396-759200000190a4851d740a232357_1000_1000.jpg?w=600&h=600",
+        "price": "17 USD",
+        "brand": "Bape",
+        "category": "Clothing"
+    },
+    {
+        "name": "Nike Shorts",
+        "link": "https://cnfans.com/product/?shop_type=weidian&id=6259580444&ref=212016",
+        "img": "https://si.geilicdn.com/wdseller981500612-1f9500000187bc6034280a231446_1024_1024.jpg?w=600&h=600",
+        "price": "7 USD",
+        "brand": "Nike",
+        "category": "Clothing"
+    },
+    {
+        "name": "JNCO Jeans",
+        "link": "https://cnfans.com/product/?shop_type=weidian&id=7254141825&ref=212016",
+        "img": "https://si.geilicdn.com/open1839367417-252808396-38470000019000c270940a22d234_960_960.jpg?w=600&h=600",
+        "price": "17 USD",
+        "brand": "Y2K",
+        "category": "Clothing"
+    },
+    {
+        "name": "Wet Grass RUG",
+        "link": "https://cnfans.com/product/?shop_type=taobao&id=617257430094&ref=212016",
+        "img": "https://img.alicdn.com/bao/uploaded/i1/2315440005/O1CN01amXRF01BuKZozH9qu_!!2315440005.jpg_600x600.jpg",
+        "price": "35 USD",
+        "brand": "Rug",
+        "category": "Accessories"
+    },
+    {
+        "name": "Denim Tears Tracksuit",
+        "link": "https://cnfans.com/pl/product/?shop_type=weidian&id=7255149688&ref=212016",
+        "img": "https://si.geilicdn.com/open1839367417-252808396-6d8b0000019000ca09640a210559_1000_1100.jpg?w=600&h=600",
+        "price": "21 USD",
+        "brand": "Denim Tears",
+        "category": "Clothing"
+    },
+    {
+        "name": "Nike Tech Fleece",
+        "link": "https://cnfans.com/product/?shop_type=taobao&id=676700645113&ref=212016",
+        "img": "https://img.alicdn.com/bao/uploaded/i3/2640300732/O1CN01XGlk1H1HHIgM4m0lh_!!2640300732.jpg_600x600.jpg",
+        "price": "28 USD",
+        "brand": "Nike",
+        "category": "Clothing"
+    },
+    {
+        "name": "ronaldo Long Sleeve",
+        "link": "https://cnfans.com/product/?shop_type=taobao&id=583671524889&ref=212016",
+        "img": "https://img.alicdn.com/bao/uploaded/i4/677731837/O1CN01e45wLs1PRO3WFOKtN_!!0-item_pic.jpg_600x600.jpg",
+        "price": "14 USD",
+        "brand": "Nike",
+        "category": "Clothing"
+    },
+    {
+        "name": "Bape Zip up",
+        "link": "https://cnfans.com/product/?shop_type=weidian&id=7249429411&ref=212016",
+        "img": "https://si.geilicdn.com/open1664615749-252808396-690800000190b0f5ee770a239383_800_800.jpg?w=600&h=600",
+        "price": "30 USD",
+        "brand": "Bape",
+        "category": "Clothing"
+    },
+    {
+        "name": "Moncler Beanie",
+        "link": "https://cnfans.com/product/?shop_type=weidian&id=7096927876&ref=212016",
+        "img": "https://si.geilicdn.com/pcitem1816205840-44c80000018ccfbb7d1e0a813470_800_800.jpg?w=600&h=600",
+        "price": "6 USD",
+        "brand": "Moncler",
+        "category": "Accessories"
+    },
+    {
+        "name": "Y2K Beanie",
+        "link": "https://cnfans.com/product/?shop_type=taobao&id=712355409098&ref=212016",
+        "img": "https://img.alicdn.com/bao/uploaded/i4/2692241492/O1CN01MtpvoW1MtNpXHhX46_!!2692241492.jpg_600x600.jpg",
+        "price": "1.22 USD",
+        "brand": "Y2K",
+        "category": "Accessories"
+    },
+    {
+        "name": "Chrome Hearts Rings",
+        "link": "https://cnfans.com/product/?shop_type=taobao&id=641070531742&ref=212016",
+        "img": "https://img.alicdn.com/bao/uploaded/i1/671234010/O1CN01YuPSJW1fUcvdg2Xk2_!!671234010.jpg_600x600.jpg",
+        "price": "4 USD",
+        "brand": "Chrome Hearts",
+        "category": "Accessories"
+    },
+    {
+        "name": "Travis Shorts (FAV ITEM 10/10) ",
+        "link": "https://cnfans.com/product/?shop_type=taobao&id=711755071983&ref=212016",
+        "img": "https://img.alicdn.com/bao/uploaded/i2/2647352244/O1CN01tQFyy51SRnbCWJaF2_!!2647352244.jpg",
+        "price": "30 USD",
+        "brand": "Travis",
+        "category": "Clothing"
+    },
+    {
+        "name": "Adidas Slides (comfy asf)",
+        "link": "https://cnfans.com/product/?shop_type=weidian&id=5176650505&ref=212016",
+        "img": "https://si.geilicdn.com/wdseller1610144534-2c8d000001820b01dbf20a20e7c7_828_828.jpg?w=600&h=600",
+        "price": "9 USD",
+        "brand": "Adidas",
+        "category": "Accessories"
+    },
+    {
+        "name": "Iphone 15 ",
+        "link": "https://www.allchinabuy.com/en/page/buy/?nTag=Home-search&from=search-input&_search=url&position=&url=https://k.youshop10.com/OW4e7p-U&partnercode=wfZcNY&ref=212016",
+        "img": "https://media.littlewoods.com/i/littlewoods/VPZ1K_SQ1_0000000004_BLACK_SLf?$300x400_retinamobilex2$&$roundel_littlewoods$&p1_img=blank_apple",
+        "price": "160 USD",
+        "brand": "Apple",
+        "category": "Accessories"
+    },
+    {
+        "name": "Ferrari Sunglasses",
+        "link": "https://cnfans.com/product/?shop_type=weidian&id=7236598822&ref=212016",
+        "img": "https://si.geilicdn.com/pcitem985284097-3fa60000018f14be435e0a20e672_1702_1702.jpg?w=600&h=600",
+        "price": "13 USD",
+        "brand": "Ferrari",
+        "category": "Accessories"
+    },
+    {
+        "name": "Lacoste Polo",
+        "link": "https://cnfans.com/product/?shop_type=weidian&id=7236405169&ref=212016",
+        "img": "https://si.geilicdn.com/pcitem1856336196-45a60000018f94dde4d20a20e35c_1200_1200.jpg?w=600&h=600",
+        "price": "20 USD",
+        "brand": "Lacoste",
+        "category": "Clothing"
+    },
+    {
+        "name": "Nike Jacket",
+        "link": "https://cnfans.com/product/?shop_type=taobao&id=729008011790&ref=212016",
+        "img": "https://img.alicdn.com/bao/uploaded/i2/2130135638/O1CN01YZpygJ1rWFsTiBJSl_!!2130135638.jpg_600x600.jpg",
+        "price": "10 USD",
+        "brand": "Nike",
+        "category": "Clothing"
+    },
+    {
+        "name": "Nike Jacket",
+        "link": "https://cnfans.com/product/?shop_type=taobao&id=729008011790&ref=212016",
+        "img": "https://img.alicdn.com/bao/uploaded/i1/2130135638/O1CN013oX4sX1rWFnHDWdJp_!!2130135638.jpg_600x600.jpg",
+        "price": "10 USD",
+        "brand": "Nike",
+        "category": "Clothing"
+    },
+    {
+        "name": "Cactus Jack Hoodie",
+        "link": "https://cnfans.com/product/?shop_type=taobao&id=682335918587&ref=212016",
+        "img": "https://img.alicdn.com/bao/uploaded/i4/908025819/O1CN01DnxHTX1sr9TxTvqs9_!!908025819.jpg_600x600.jpg",
+        "price": "10 USD",
+        "brand": "Travis",
+        "category": "Clothing"
+    },
+    {
+        "name": "Dunk (basic Colours)",
+        "link": "https://cnfans.com/product/?shop_type=weidian&id=7236151113&ref=212016",
+        "img": "https://si.geilicdn.com/pcitem1583459867-46d10000018f23d8f0db0a23047e_720_720.jpg?w=600&h=600",
+        "price": "29 USD",
+        "brand": "Nike",
+        "category": "Shoes"
+    },
+    {
+        "name": "Budget LV Skate Shoes",
+        "link": "https://cnfans.com/product/?shop_type=weidian&id=4755106410&ref=212016",
+        "img": "https://si.geilicdn.com/wdseller1424843450-75430000018b76eef75a0a23132e_1170_1136.jpg?w=600&h=600",
+        "price": "15 USD",
+        "brand": "LV",
+        "category": "Shoes"
+    },
+    {
+        "name": "Rolex - Patteke (cheap)",
+        "link": "https://cnfans.com/product/?shop_type=weidian&id=7263053379&ref=212016",
+        "img": "https://si.geilicdn.com/pcitem1788893166-044200000191823ad2740a2395d6-unadjust_800_1067.png?w=600&h=600",
+        "price": "29 USD",
+        "brand": "Rolex",
+        "category": "Accessories"
+    },
+    {
+        "name": "TNF Jacket",
+        "link": "https://cnfans.com/product/?shop_type=weidian&id=4440111263&ref=212016",
+        "img": "https://si.geilicdn.com/wdseller1424843450-43830000017cf30acfdf0a20e2c5_1170_780.jpg?w=600&h=600",
+        "price": "13 USD",
+        "brand": "The North Face",
+        "category": "Clothing"
+    },
+    {
+        "name": "Nike Cargos",
+        "link": "https://cnfans.com/product/?shop_type=weidian&id=3107923938&ref=212016",
+        "img": "https://si.geilicdn.com/pcitem1420898802-10d40000016e782bf3050a217216_700_700.jpg?w=600&h=600",
+        "price": "13 USD",
+        "brand": "Nike",
+        "category": "Clothing"
     }
 ]
