@@ -81,7 +81,7 @@ document.addEventListener('DOMContentLoaded', () => {
         if (batchIndex < itemsData.length) {
             loadNextBatch();
         }
-    }, 10000);
+    }, 9000);
 
     // Retry failed images every 3 seconds
     setInterval(retryFailedImages, 3000);
