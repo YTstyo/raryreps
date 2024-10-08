@@ -20,7 +20,8 @@ body {
 .header {
     background-color: #2D046E;
     padding: 20px;
-    border-bottom: 2px solid #FFA500;
+    border-bottom: 2px solid #C4B6A8; /* Muted gold */
+    color: white;
     -webkit-user-select: text;
     -moz-user-select: text;
     -ms-user-select: text;
@@ -28,7 +29,7 @@ body {
 }
 
 .header a {
-    color: #FFA500;
+    color: #C4B6A8;
     text-decoration: none;
     -webkit-user-select: text;
     -moz-user-select: text;
@@ -54,21 +55,21 @@ table {
 }
 
 th {
-    border: 1.5px solid #000000;
+    border: 1.5px solid #AAAAAA;
     padding: 10px;
     text-align: center;
     vertical-align: middle;
 }
 
 td {
-    border: 1.5px solid #000000;
+    border: 1.5px solid #AAAAAA;
     padding: 10px;
     text-align: center;
     vertical-align: middle;
 }
 
 thead {
-    background-color: #2D046E;
+    background-color: #392C70;
     color: white;
 }
 
