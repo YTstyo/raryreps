@@ -24,7 +24,11 @@
     <div class="header">
         <h1>RARYReps OopBuy Finds</h1>
         <p>🔗 Use My Sign Up <a href="https://m.oopbuy.com/register?inviteCode=1EWZBQXCB" target="_blank" rel="noopener noreferrer">Link</a> To Get Worth 129$ Shipping Coupons! 🔔 Join my <a href="https://discord.gg/uKvpZdCHfP" target="_blank" rel="noopener noreferrer">Discord</a> for help and more quality items!</p>
+        
+        <!-- New button to trigger the popup -->
+        <button class="join-button" id="openModalBtn">Join Now</button>
     </div>
+    
     <table id="itemsTable">
         <thead>
             <tr>
@@ -39,6 +43,18 @@
         <tbody>
         </tbody>
     </table>
+
+    <!-- Popup modal -->
+    <div id="joinModal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <h2>Join Our Discord</h2>
+            <p>Sign up using our referral link to get amazing benefits!</p>
+            <p><a href="https://m.oopbuy.com/register?inviteCode=1EWZBQXCB" target="_blank" class="button-link">Sign Up Here</a></p>
+            <p><a href="https://discord.gg/uKvpZdCHfP" target="_blank" class="button-link">Join Our Discord</a></p>
+        </div>
+    </div>
+
     <script src="script.js"></script>
 </body>
 </html>
