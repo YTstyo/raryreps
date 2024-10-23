@@ -107,7 +107,7 @@ img {
 }
 
 #telegramLink {
-    font-size: 20px; /* Adjust the size as necessary */
+    font-size: 18px; /* Adjust the size as necessary */
     color: #0088cc; /* Typical Telegram color */
     font-weight: bold; /* Make the link bold */
     text-decoration: none; /* Remove underline */
