@@ -111,7 +111,6 @@ img {
     color: #0088cc; /* Typical Telegram color */
     font-weight: bold; /* Make the link bold */
     text-decoration: none; /* Remove underline */
-    padding: 10px 20px; /* Add some padding to make it look bigger */
     background-color: transparent; /* Remove background to make it look like text */
     border: none; /* Remove any border */
     outline: none; /* Remove any outline on focus */
