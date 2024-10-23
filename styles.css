@@ -106,6 +106,23 @@ img {
     object-fit: cover; 
 }
 
+#telegramLink {
+    font-size: 24px; /* Adjust the size as necessary */
+    color: #0088cc; /* Typical Telegram color */
+    font-weight: bold; /* Make the link bold */
+    text-decoration: none; /* Remove underline */
+    padding: 10px 20px; /* Add some padding to make it look bigger */
+    background-color: #e0f7fa; /* Light blue background */
+    border-radius: 8px; /* Rounded corners */
+    transition: all 0.3s ease; /* Add smooth transitions */
+}
+
+#telegramLink:hover {
+    background-color: #b2ebf2; /* Slightly darker blue on hover */
+    color: #005a87; /* Darker text color on hover */
+    text-decoration: underline; /* Optionally add underline on hover */
+}
+
 @media only screen and (max-width: 768px) {
     body {
         font-size: 16px;
