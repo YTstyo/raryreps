@@ -216,19 +216,19 @@
         "category": "Shoes"
     },
     {
-        "name": "",
-        "link": "https://oopbuy.com/product/2/7300356881?inviteCode=1EWZBQXCB",
-        "img": "",
-        "price": "",
-        "brand": "",
-        "category": ""
-    },
-    {
         "name": "New Balance 2002",
-        "link": "https://oopbuy.com/product/2/7301319512?inviteCode=1EWZBQXCB",
+        "link": "https://oopbuy.com/product/2/7300356881?inviteCode=1EWZBQXCB",
         "img": "https://si.geilicdn.com/pcitem901856186489-1c86000001914a47a8150a207569-unadjust_800_800.png",
         "price": "43 USD",
         "brand": "New Balance",
+        "category": "Shoes"
+    },
+    {
+        "name": "Asics Gel Kayano",
+        "link": "https://oopbuy.com/product/2/7301319512?inviteCode=1EWZBQXCB",
+        "img": "https://si.geilicdn.com/pcitem901856186489-68a900000192b408c5220a210349-unadjust_850_850.png",
+        "price": "34 USD",
+        "brand": "asics",
         "category": "Shoes"
     },
     {
