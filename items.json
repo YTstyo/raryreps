@@ -16,20 +16,20 @@
         "category": "Clothing"
     },
     {
-        "name": "",
-        "link": "https://oopbuy.com/product/2/7300262957?inviteCode=1EWZBQXCB",
-        "img": "https://si.geilicdn.com/open1725200113-1234478995-21da0000019307b27ac40a210298_1080_1080.jpg",
-        "price": "",
-        "brand": "",
-        "category": ""
-    },
-    {
         "name": "Herm Belt",
-        "link": "https://oopbuy.com/product/2/7301262810?inviteCode=1EWZBQXCB",
+        "link": "https://oopbuy.com/product/2/7300262957?inviteCode=1EWZBQXCB",
         "img": "https://si.geilicdn.com/open1725200113-1234478995-21da0000019307b27ac40a210298_1080_1080.jpg",
         "price": "13.5 USD",
         "brand": "Herm",
         "category": "Accessories"
+    },
+    {
+        "name": "Nike Tech Fleece",
+        "link": "https://oopbuy.com/product/2/7301262810?inviteCode=1EWZBQXCB",
+        "img": "https://si.geilicdn.com/open1725200113-1234478995-706900000192cd6ddffe0a210559_1080_1080.jpg",
+        "price": "43.5 USD",
+        "brand": "Nike",
+        "category": "Clothing"
     },
     {
         "name": "Ami Jumper",
